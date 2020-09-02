@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/atian/AndroidStudioProjects/TestAliVideo/AliyunEditor/src/main/assets"/><source path="/Users/atian/AndroidStudioProjects/TestAliVideo/AliyunEditor/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/atian/AndroidStudioProjects/TestAliVideo/AliyunEditor/src/debug/assets"/></dataSet></merger>

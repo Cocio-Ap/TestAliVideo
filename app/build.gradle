@@ -11,6 +11,11 @@ android {
         versionCode 1
         versionName "1.0"
 
+        ndk {
+            abiFilters "armeabi-v7a","arm64-v8a"
+            //短视频目前不支持x86架构
+        }
+
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -27,6 +32,9 @@ dependencies {
     implementation project(':AliyunFileDownLoader')
     implementation project(':AliyunSVideoBase')
     implementation project (":AliyunRecorder:record")
+    implementation project(':AliyunEditor')
+    implementation project(':AliyunCrop:crop')
     implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation externalOKHTTP
 
 }
