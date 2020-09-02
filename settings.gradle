@@ -1,0 +1,8 @@
+include ':app'
+include ':AliyunVideoCommon'
+include ':AlivcMedia'
+include ':AliyunSVideoBase'
+include ':AliyunFileDownLoader'
+include ':AliyunSvideoMusic'
+include ':AliyunRecorder:record'
+rootProject.name = "TestAliVideo"
