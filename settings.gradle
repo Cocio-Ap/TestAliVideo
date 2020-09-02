@@ -7,4 +7,5 @@ include ':AliyunCrop:crop'//裁剪ui模块
 include ':AlivcMedia'//媒体资源选择库
 include ':AliyunVideoCommon'//
 include ':AliyunFileDownLoader'//资源数据库和下载模块
+include ':AlivcLittleVideo'//资源数据库和下载模块
 rootProject.name = "TestAliVideo"
