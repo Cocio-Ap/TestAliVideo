@@ -1,6 +1,9 @@
 # TestAliVideo
 根据阿里短视频文档，自己接入的demo SDK 运行版
 
+阿里短视频官方文档：
+https://help.aliyun.com/document_detail/95746.html?spm=a2c4g.11186623.6.1129.157a6216BeCyF7
+
 项目中的配置
 Android Studio版本	3.1.3
 JRE:	1.8.0_152-release-1024-b01 x86_64
